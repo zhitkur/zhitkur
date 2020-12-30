@@ -12,7 +12,7 @@
  
  
 ### Contact Me  👀 
-- Session ID : 054a1e7c6a64c21383dfb1a2e7cfea3b3180b34ad872db76ecf831ba790875e76b
+- Discord : 허돌돌#6531
 
   
 <div align=center>
