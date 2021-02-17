@@ -17,6 +17,6 @@
   
 <div align=center>
 
-![Cool](https://user-images.githubusercontent.com/70523536/105815257-ffe8b880-5ff5-11eb-865b-30eb2ae7ef40.gif)
+![halospin](https://user-images.githubusercontent.com/70523536/108191825-f0711100-7156-11eb-9a4f-da695df82937.gif)
 
 </div>
