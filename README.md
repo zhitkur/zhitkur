@@ -17,6 +17,6 @@
   
 <div align=center>
 
-![halospin](https://user-images.githubusercontent.com/70523536/108191825-f0711100-7156-11eb-9a4f-da695df82937.gif)
+![badeye](https://user-images.githubusercontent.com/70523536/113804841-4e56c800-979a-11eb-9e0c-c7c98c259508.gif)
 
 </div>
