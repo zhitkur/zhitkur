@@ -4,19 +4,12 @@
 
 </div>
 
-### Interest ⚡   
+### Interest 💨
  - Anti-Cheat (e.g. BattlEye, EasyAntiCheat, Xenuine, etc)
  - Reverse Engineering
- - Windows Kernel Programming
- - Computational Thinking
  
- 
-### Contact Me  👀 
-- Discord : 허돌돌#6531
-
-  
 <div align=center>
 
-![badeye](https://user-images.githubusercontent.com/70523536/113804841-4e56c800-979a-11eb-9e0c-c7c98c259508.gif)
+![1618386869](https://user-images.githubusercontent.com/70523536/115759134-e1b70c80-a3da-11eb-8520-f1abbf6e6bc9.gif)
 
 </div>
